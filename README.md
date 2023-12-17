@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project aims to analyze the Suicide Rate dataset obtained from the AIDS Clinical Trials Group Study 175. The data provides information on death rates due to suicide, categorized by sex, race, Hispanic origin, age, and year in the United States. The dataset is freely available for download from (https://catalog.data.gov/dataset/death-rates-for-suicide-by-sex-race-hispanic-origin-and-age-united-states-020c1/resource/3e3345d3-5759-445c-aa2f-9bfc6891bd6b).
+This project aims to analyze the Suicide Rate dataset . The data provides information on death rates due to suicide, categorized by sex, race, Hispanic origin, age, and year in the United States. The dataset is freely available for download from (https://catalog.data.gov/dataset/death-rates-for-suicide-by-sex-race-hispanic-origin-and-age-united-states-020c1/resource/3e3345d3-5759-445c-aa2f-9bfc6891bd6b).
 
 ## Data Source
 
@@ -59,6 +59,5 @@ This project aims to analyze the Suicide Rate dataset obtained from the AIDS Cli
 ## Acknowledgments
 
 - Dataset source:https://catalog.data.gov/dataset/death-rates-for-suicide-by-sex-race-hispanic-origin-and-age-united-states-020c1/resource/3e3345d3-5759-445c-aa2f-9bfc6891bd6b 
-- AIDS Clinical Trials Group Study 175 for providing the dataset.
 
 Feel free to contribute or provide feedback to enhance the analysis.
